@@ -115,7 +115,7 @@ header .fa-bars {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(https://clx02.github.io/clx.p-g.web/bg.jpg) no-repeat;
+    background: url(https://clx02.github.io/clx.web/bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
